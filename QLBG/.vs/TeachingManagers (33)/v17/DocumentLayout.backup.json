@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\QLBG\\QLBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|e:\\c#\\qlbg\\qlbg\\teachingmanagers\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\taotaikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\taotaikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\taotaikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\taotaikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\quanlybaigianggv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\quanlybaigianggv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\quanlybaigianggv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\quanlybaigianggv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\thongtincanhan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\thongtincanhan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\thongtincanhan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\thongtincanhan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\thongtincanhanhs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\thongtincanhanhs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\quenmatkhau.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\quenmatkhau.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\app_code\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\app_code\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\loaimon.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\loaimon.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\chaomung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\chaomung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\loaimon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\loaimon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|E:\\C#\\QLBG\\QLBG\\teachingmanagers\\thongtinmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388D377-6979-4CDB-801F-B8B000FF9FCC}|E:\\C#\\QLBG\\QLBG\\TeachingManagers|solutionrelative:teachingmanagers\\thongtinmonhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\MasterPage.master",
+              "RelativeDocumentMoniker": "TeachingManagers\\MasterPage.master",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\MasterPage.master",
+              "RelativeToolTip": "TeachingManagers\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T02:21:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaoTaiKhoan.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\TaoTaiKhoan.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\TaoTaiKhoan.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\TaoTaiKhoan.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\TaoTaiKhoan.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:19:29.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaoTaiKhoan.aspx",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\TaoTaiKhoan.aspx",
+              "RelativeDocumentMoniker": "TeachingManagers\\TaoTaiKhoan.aspx",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\TaoTaiKhoan.aspx",
+              "RelativeToolTip": "TeachingManagers\\TaoTaiKhoan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T02:19:25.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\Web.config",
+              "RelativeDocumentMoniker": "TeachingManagers\\Web.config",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\Web.config",
+              "RelativeToolTip": "TeachingManagers\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-11T08:38:12.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyBaiGiangGV.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\QuanLyBaiGiangGV.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\QuanLyBaiGiangGV.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\QuanLyBaiGiangGV.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\QuanLyBaiGiangGV.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:20:10.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterPage.master.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\MasterPage.master.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\MasterPage.master.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\MasterPage.master.cs",
+              "RelativeToolTip": "TeachingManagers\\MasterPage.master.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:54:13.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyBaiGiangGV.aspx",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\QuanLyBaiGiangGV.aspx",
+              "RelativeDocumentMoniker": "TeachingManagers\\QuanLyBaiGiangGV.aspx",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\QuanLyBaiGiangGV.aspx",
+              "RelativeToolTip": "TeachingManagers\\QuanLyBaiGiangGV.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T07:20:07.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\Login.aspx",
+              "RelativeDocumentMoniker": "TeachingManagers\\Login.aspx",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\Login.aspx",
+              "RelativeToolTip": "TeachingManagers\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T06:59:05.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThongTinCaNhanHS.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinCaNhanHS.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\ThongTinCaNhanHS.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinCaNhanHS.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\ThongTinCaNhanHS.aspx.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:06:27.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongTinCaNhan.aspx",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinCaNhan.aspx",
+              "RelativeDocumentMoniker": "TeachingManagers\\ThongTinCaNhan.aspx",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinCaNhan.aspx",
+              "RelativeToolTip": "TeachingManagers\\ThongTinCaNhan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T07:02:26.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\Login.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\Login.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\Login.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:59:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongTinCaNhan.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinCaNhan.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\ThongTinCaNhan.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinCaNhan.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\ThongTinCaNhan.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:02:54.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuenMatKhau.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\QuenMatKhau.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\QuenMatKhau.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\QuenMatKhau.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\QuenMatKhau.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:59:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MaHoa.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\App_Code\\MaHoa.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\App_Code\\MaHoa.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\App_Code\\MaHoa.cs",
+              "RelativeToolTip": "TeachingManagers\\App_Code\\MaHoa.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:59:25.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThongTinMonHoc.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinMonHoc.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\ThongTinMonHoc.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ThongTinMonHoc.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\ThongTinMonHoc.aspx.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:52:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoaiMon.aspx",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\LoaiMon.aspx",
+              "RelativeDocumentMoniker": "TeachingManagers\\LoaiMon.aspx",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\LoaiMon.aspx",
+              "RelativeToolTip": "TeachingManagers\\LoaiMon.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T06:50:20.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoaiMon.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\LoaiMon.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\LoaiMon.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\LoaiMon.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\LoaiMon.aspx.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwKAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:50:20.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChaoMung.aspx.cs",
+              "DocumentMoniker": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ChaoMung.aspx.cs",
+              "RelativeDocumentMoniker": "TeachingManagers\\ChaoMung.aspx.cs",
+              "ToolTip": "E:\\C#\\QLBG\\QLBG\\TeachingManagers\\ChaoMung.aspx.cs",
+              "RelativeToolTip": "TeachingManagers\\ChaoMung.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:58:17.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

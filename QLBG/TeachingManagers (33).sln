@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TeachingManagers", "TeachingManagers\", "{A388D377-6979-4CDB-801F-B8B000FF9FCC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/TeachingManagers"
+		Debug.AspNetCompiler.PhysicalPath = "TeachingManagers\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TeachingManagers\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TeachingManagers"
+		Release.AspNetCompiler.PhysicalPath = "TeachingManagers\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TeachingManagers\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49777"
+		SlnRelativePath = "TeachingManagers\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A388D377-6979-4CDB-801F-B8B000FF9FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A388D377-6979-4CDB-801F-B8B000FF9FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB49AD88-4DD3-4D66-90D0-C14D0BD570A4}
+	EndGlobalSection
+EndGlobal
